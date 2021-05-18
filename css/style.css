@@ -1,0 +1,20 @@
+.my-container {
+  min-height: 100vh;
+  background: #dddb2b;
+  background: -webkit-linear-gradient(top left, #dddb2b, #94ebca);
+  background: -moz-linear-gradient(top left, #dddb2b, #94ebca);
+  background: linear-gradient(to bottom right, #dddb2b, #94ebca);
+}
+
+.my-img {
+  margin: 0 auto;
+}
+
+.my-spinner {
+  display: none;
+  margin: 1rem auto 2rem;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+}
